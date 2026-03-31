@@ -1,4 +1,4 @@
-## dirb
+# dirb
 
 ## O que é
 um Scanner de conteúdo web, projetado para encontrar diretorios e arquivos ocultos em servidores web, lançando ataques brute force
